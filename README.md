@@ -1,3 +1,3 @@
 # Description
 
-This i smy first learning repository.
+This is my first learning repository.
