@@ -7,6 +7,7 @@
     5. git remote -v
     6. git commit -m "message"
     7. git push -u origin master
+    8. git checkout -b <branch_name>
 
 
 # Terms
