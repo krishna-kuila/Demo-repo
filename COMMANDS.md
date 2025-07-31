@@ -10,6 +10,7 @@
     8. git checkout -b <branch_name>
     9. git diff <branch_name>
     10. git branch -d <branch_name>
+    11. git pull origin main
 
 # Terms
     staged --> files to be commited
