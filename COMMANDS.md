@@ -9,6 +9,7 @@
     7. git push -u origin master
     8. git checkout -b <branch_name>
     9. git diff <branch_name>
+    10. git branch -d <branch_name>
 
 # Terms
     staged --> files to be commited
